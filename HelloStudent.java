@@ -8,3 +8,4 @@ public class HelloStudent {
 }
 // Test change
 //Scm Test 2\  
+// Verify no auto-build
